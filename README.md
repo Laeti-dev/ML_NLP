@@ -9,5 +9,7 @@ Practice ML - NLP - emotion predictions
 ![NLTK](https://img.shields.io/badge/-NLTK-lightgrey)
 
 1 - Read and understand the dataframe
+
 2 - Change 'CROYANCE' feature into numeric : 1 for 'Yes' - 0 for 'No'
+
 3 - Normalize the text
